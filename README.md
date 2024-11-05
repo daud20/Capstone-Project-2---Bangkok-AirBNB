@@ -8,7 +8,7 @@ Sebagai salah satu kota dengan jumlah listing Airbnb yang tinggi, Bangkok menawa
 
 source: https://www.tatnews.org/2022/12/amazing-thailand-countdown-2023-concludes-2022-with-1-5-trillion-baht-tourism-revenue/
 
-### Stakeholder
+# Stakeholder
 `1. Airbnb Marketing and Business Development Lead`
 
 `2. Pemilik atau Host Listing`
@@ -39,7 +39,7 @@ Berdasarkan informasi yang diperoleh dapat ditarik 6 rumusan masalah terperinci 
 5. **Analisis Lokasi Populer:** <br/>
     a) Bagaimana Kondisi Listing di Area Sekitar Lokasi Populer?
 
-    ### **Tujuan Analisis**
+# **Tujuan Analisis**
 1. **Mengetahui Karakteristik dan Distribusi Listing Airbnb di Bangkok**<br/>
 Untuk memahami jumlah dan distribusi listing Airbnb di berbagai area Bangkok sehingga dapat mengenali area dengan potensi atau kekurangan listing yang signifikan.
 
