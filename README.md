@@ -15,7 +15,7 @@ source: https://www.tatnews.org/2022/12/amazing-thailand-countdown-2023-conclude
 
 Stakeholder utama untuk analisis ini adalahi Airbnb Marketing and Business Development Lead dan pemilik listing terletak pada kemampuan untuk membuat keputusan yang lebih tepat berdasarkan wawasan yang diperoleh dari hasil analisis ini. Marketing Lead dapat memahami distribusi listing dan tingkat okupansi untuk merumuskan strategi pemasaran yang lebih efektif, menyesuaikan kampanye atau promo yang sesuai preferensi pelanggan, serta menetapkan harga yang kompetitif. Di sisi lain, pemilik listing dapat mengevaluasi kinerja properti, mengoptimalkan tawaran berdasarkan tipe kamar yang diminati, mengetahui lokasi mana saja yang potensial untuk menambahkan listing, dan meningkatkan pengalaman tamu dengan merespons ulasan. Dengan informasi ini, kedua pihak dapat meningkatkan hasil bisnis mereka di pasar Airbnb di Kota Bangkok.
 
-### **Rumusan Masalah** 
+# **Rumusan Masalah** 
 Berdasarkan informasi yang diperoleh dapat ditarik 6 rumusan masalah terperinci sebagai panduan analisis:
 1. **Analisis Jumlah Listing**: <br/>
     a) Berapakah jumlah listing airbnb di Bangkok?<br/>
